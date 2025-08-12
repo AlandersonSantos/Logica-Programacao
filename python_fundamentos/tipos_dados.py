@@ -1,3 +1,7 @@
+#O que são tipos de dados?
+
+#Um tipo de dado define que tipo de valor pode ser armazenado e quais operações podem ser feitas com ele.
+
 #Tipo inteiro(INT):
 
 print(11 + 10) #retorna 21
